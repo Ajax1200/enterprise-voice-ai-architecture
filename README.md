@@ -53,7 +53,7 @@ By compiling the stack into a full-duplex WebRTC streaming mesh, we collapse rou
 
 ## 🚀 Live Enterprise Tools & Demos
 Test and benchmark this architecture live on the PANTHM platform:
-- 🎙️ **[Interactive Voice AI Demo](https://panthm.com/tools/voice-ai-demo)**: Test real-time speech synthesis and reasoning latency directly in your browser.
+- 🎙️ **[Live AI Voice Platform (call.panthm.com)](https://call.panthm.com)**: Run real-time voice campaigns and live AI calls directly on PANTHM's production platform.
 - 📊 **[AI ROI & Call Center Cost Calculator](https://panthm.com/tools/ai-roi-calculator)**: Model cost savings and throughput gains for enterprise call centers.
 - 🏢 **[PANTHM AI Calling Agency](https://panthm.com/services/ai-calling-agency)**: Explore our full B2B voice automation services.
 
