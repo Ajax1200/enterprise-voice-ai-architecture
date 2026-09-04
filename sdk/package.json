@@ -1,0 +1,51 @@
+{
+  "name": "@panthm/voice-client",
+  "version": "1.0.0",
+  "description": "Official JavaScript/TypeScript Client SDK for PANTHM AI Labs ultra-low-latency voice agents and full-duplex WebRTC streaming telecalling engines.",
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "voice-ai",
+    "conversational-ai",
+    "panthm",
+    "ai-calling",
+    "webrtc",
+    "telecalling",
+    "ai-agents",
+    "speech-to-text",
+    "text-to-speech",
+    "ai-sdr",
+    "sub-500ms-voice",
+    "pune"
+  ],
+  "author": "PANTHM AI Labs <admin@panthm.com> (https://panthm.com)",
+  "license": "MIT",
+  "homepage": "https://panthm.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajax1200/enterprise-voice-ai-architecture.git"
+  },
+  "bugs": {
+    "url": "https://panthm.com/contact"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {}
+}
