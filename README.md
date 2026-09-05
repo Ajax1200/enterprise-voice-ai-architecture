@@ -1,10 +1,22 @@
 # Enterprise Voice AI Architecture: Sub-500ms Full-Duplex Agent Stack
 
+[![NPM Package](https://img.shields.io/badge/NPM-panthm--voice--client-cb3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/panthm-voice-client)
 [![GitHub Pages](https://img.shields.io/badge/Live_Blueprint-GitHub_Pages-blue?style=for-the-badge&logo=github)](https://Ajax1200.github.io/enterprise-voice-ai-architecture/)
 [![Engineered By](https://img.shields.io/badge/Engineered_By-PANTHM_AI_Labs-9B00FF?style=for-the-badge)](https://panthm.com)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 > A production-grade engineering reference architecture for building ultra-low-latency, full-duplex conversational voice agents. Engineered and maintained by **[PANTHM AI Labs](https://panthm.com)**.
+
+---
+
+## 📦 Official Client SDK (NPM)
+Install the official JavaScript/TypeScript client library directly from the NPM registry:
+```bash
+npm install panthm-voice-client
+```
+- 📦 **NPM Registry**: [https://www.npmjs.com/package/panthm-voice-client](https://www.npmjs.com/package/panthm-voice-client)
+- 🎙️ **Live Platform**: [https://call.panthm.com](https://call.panthm.com)
+- 🌐 **Canonical Docs**: [https://panthm.com/services/ai-calling-agency](https://panthm.com/services/ai-calling-agency)
 
 ---
 
